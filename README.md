@@ -93,7 +93,7 @@ For further question:
 
 
 ## Some theory: Parsing Expression Grammar (PEG) ##
-PEG (Parsing Expression Grammar)**: In computer science, a parsing expression grammar (PEG) is a type of analytic formal grammar, i.e. it describes a formal language in terms of a set of rules for recognizing strings in the language. https://en.wikipedia.org/wiki/Parsing_expression_grammar
+**PEG (Parsing Expression Grammar)**: In computer science, a parsing expression grammar (PEG) is a type of analytic formal grammar, i.e. it describes a formal language in terms of a set of rules for recognizing strings in the language. https://en.wikipedia.org/wiki/Parsing_expression_grammar
 
 - Each parsing function conceptually takes an **input string as its argument**, and yields one of the following results:
 **success**, in which the function may optionally move forward or consume one or more characters of the input string supplied to it, or
